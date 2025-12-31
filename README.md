@@ -24,4 +24,5 @@ Files included:
 Dataset: Kaggle (Insurance Dataset)
 
 Future Work:
+
 A potential next step is to use the quadratic formula to estimate the peak effect of children on insurance cost rather than relying only on confidence intervals; this will provide a more accurate interpretation of the turning point in the quadratic model. Next could be to include demographic predictors like age, BMI, smoking status to increase explanatory power, and address the remaining heteroscedasticity through alternative transformations, possibly weighted least squares.
